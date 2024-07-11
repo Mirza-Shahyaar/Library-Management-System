@@ -4,24 +4,24 @@ The Library Management System is a console-based application developed in C++ th
 
 ## Features
 
-### Book Management
+### Book Management:
 
 - **Add New Books:** Enter unique identifiers (IDs), titles, and authors to add books to the library's collection.
 - **Display Book Information:** View detailed information about each book, including its ID, title, author, and current issuance status.
 - **Track Issuance Status:** Monitor whether a book is available or issued to a borrower.
 
-### Transaction Handling
+### Transaction Handling:
 
 - **Issue Books:** Mark books as issued when borrowed by specifying their IDs. This updates their availability until they are returned.
 - **Return Books:** Update the system to reflect that a borrowed book has been returned to the library, making it available for future borrowing.
 
-### User Interface
+### User Interface:
 
 - **User-Friendly Console Interface:** The system provides a straightforward text-based menu for easy navigation and operation.
 - **Clear Feedback:** Receive immediate feedback confirming successful operations such as book additions, issuances, and returns.
 - **Error Handling:** Prompt notifications for invalid inputs or actions to guide users effectively.
 
-## Output Preview
+## Output Preview:
 
 ### Adding a Book
 
